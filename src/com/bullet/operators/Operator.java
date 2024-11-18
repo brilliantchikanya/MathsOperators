@@ -1,5 +1,12 @@
 package com.bullet.operators;
 
+
+/**
+ * @author brilliant
+ * @author com.bullet
+ * @since 18-11-2024
+ * */
+
 // This object creates operators, with each operator having its precedence
 public enum Operator {
     EQUALS(0),

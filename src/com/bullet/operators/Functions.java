@@ -1,5 +1,10 @@
 package com.bullet.operators;
 
+/**
+ * @author brilliant
+ * @author com.bullet
+ * @since 18-11-2024*/
+
 public class Functions {
     static void printVariables(int x, int y) {
         System.out.println("*************************************");

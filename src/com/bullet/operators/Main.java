@@ -5,7 +5,12 @@ import java.util.Random;
 import static com.bullet.operators.Functions.printVariables;
 
 /**
- * This class demonstrates */
+ * @author brilliant
+ * @author com.bullet
+ * @since 18-11-2024
+ *
+ * This class demonstrates the various mathematical operators in use.
+ * Some of them include '+', '-', '*', '/', among others*/
 public class Main {
     public static void main(String[] args) {
         Random generator = new Random(47);
@@ -26,9 +31,7 @@ public class Main {
         //
     }
 
-    private void add(int x, int y) {
 
-    }
 
 
 
