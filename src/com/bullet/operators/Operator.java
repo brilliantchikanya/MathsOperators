@@ -15,7 +15,7 @@ public enum Operator {
     DIVIDE(3),
     MULTIPLY(4);
 
-    private int precedence;
+    private final int precedence;
 
     Operator(int precedence) {
         this.precedence = precedence;
